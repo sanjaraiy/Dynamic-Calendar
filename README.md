@@ -20,8 +20,8 @@ This Dynamic Event Calendar Application is a React-based web application that al
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sanjaraiy/dynamic-event-calendar.git
-cd dynamic-event-calendar
+https://github.com/sanjaraiy/Dynamic-Calendar.git
+cd Dynamic-Calendar
 ```
 
 2. Install Dependencies:
